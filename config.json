@@ -1,4 +1,5 @@
 {
   "TILE_DIR": "Datasets/Potato/plan",
-  "PORT": 8080
+  "PORT": 8080,
+  "IMG_SIZE": [256,256]
 }
